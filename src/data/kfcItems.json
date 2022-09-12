@@ -1,0 +1,32 @@
+[
+  {
+    "id": 6,
+    "shopName": "kfc",
+    "name": "burger kfc",
+    "price": 1.99
+  },
+  {
+    "id": 7,
+    "shopName": "kfc",
+    "name": "French fries kfc",
+    "price": 1.49
+  },
+  {
+    "id": 8,
+    "shopName": "kfc",
+    "name": "cola kfc",
+    "price": 1.05
+  },
+  {
+    "id": 9,
+    "shopName": "kfc",
+    "name": "souse kfc",
+    "price": 0.99
+  },
+  {
+    "id": 10,
+    "shopName": "kfc",
+    "name": "ice-cream kfc",
+    "price": 1.09
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11,
+    "shopName": "dom",
+    "name": "burger dom",
+    "price": 1.99
+  },
+  {
+    "id": 12,
+    "shopName": "dom",
+    "name": "French fries dom",
+    "price": 1.49
+  },
+  {
+    "id": 13,
+    "shopName": "dom",
+    "name": "cola dom",
+    "price": 1.05
+  },
+  {
+    "id": 14,
+    "shopName": "dom",
+    "name": "souse dom",
+    "price": 0.99
+  },
+  {
+    "id": 15,
+    "shopName": "dom",
+    "name": "ice-cream dom",
+    "price": 1.09
+  }
+]

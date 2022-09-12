@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "shopName": "mac",
+    "name": "burger mac",
+    "price": 1.99
+  },
+  {
+    "id": 2,
+    "shopName": "mac",
+    "name": "French fries mac",
+    "price": 1.49
+  },
+  {
+    "id": 3,
+    "shopName": "mac",
+    "name": "cola mac",
+    "price": 1.05
+  },
+  {
+    "id": 4,
+    "shopName": "mac",
+    "name": "souse mac",
+    "price": 0.99
+  },
+  {
+    "id": 5,
+    "shopName": "mac",
+    "name": "ice-cream mac",
+    "price": 1.09
+  }
+]
